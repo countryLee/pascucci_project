@@ -21,10 +21,10 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
-/* html,
+html,
 body {
   overflow-x: hidden;
-} */
+}
 
 body {
   font-size: 100%;
